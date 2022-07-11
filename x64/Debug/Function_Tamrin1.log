@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Reza\Game Projects\C++\Basic\Function_Tamrin1\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Function_Tamrin1.vcxproj -> D:\Reza\Game Projects\C++\Basic\Function_Tamrin1\x64\Debug\Function_Tamrin1.exe
